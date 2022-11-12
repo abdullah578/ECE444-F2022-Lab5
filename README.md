@@ -16,5 +16,5 @@ Abdullah Ansar Mohammed : This repo is a clone of [https://github.com/mjhea0/fla
 # Cons of TDD #
 
 * Longer development cycles. Changing the interface of the code will also require rewriting the test cases
-* Can result in lots of test cases that are overly trivial
-* Cannot find bugs introduced in both implementation and test code 
+* Can result in lots of trivial test cases
+* Cannot find bugs introduced in both developer and test code 
